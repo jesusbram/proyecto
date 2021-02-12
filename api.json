@@ -1,0 +1,74 @@
+[
+    {
+        "precio": 19999,
+        "id": 1,
+        "title": "Huawei Matebook 13 2020",
+        "thumbnailUrl": "https://img01.huaweifile.com/sg/ms/cl/pms/product/6901443379972/428_428_B14C5EFA1017B640D0BE3BC11CB1D158FC376B0F534B8178mp.png"
+    },
+    {
+        "precio": 300,
+        "id": 2,
+        "title": "Flash USB Unidad flash USB 3.1 SanDisk Extreme Go",
+        "thumbnailUrl": "https://shop.westerndigital.com/content/dam/store/en-us/assets/products/usb-flash-drives/extreme-go-usb-3-1/gallery/extreme-go-usb-3-1-right-open.png.thumb.1280.1280.png"
+    },
+    {
+        "precio": 49.90,
+        "id": 3,
+        "title": "Paquete CD-R Verbatim (700MB, 10 Pza.)",
+        "thumbnailUrl": "https://www.officedepot.com.mx/medias/48956.jpg-300ftw?context=bWFzdGVyfHJvb3R8MjgzMjN8aW1hZ2UvanBlZ3xoYmEvaDJjLzk3ODAyNTkwMjkwMjIuanBnfDJmMTZhMjI0MjNhNDEyY2I5YTA3YzJkMGZhMTQ1ODk3OWNmMjVhYzA3YjFlMTVmODQwZTNiYWI3NjY5MDlkN2M"
+    },
+    {
+        "precio": 65.50,
+        "id": 4,
+        "title": "Paquete DVD Verbatim (4.7GB, 10 Pza.)",
+        "thumbnailUrl": "https://www.officedepot.com.mx/medias/48957.jpg-300ftw?context=bWFzdGVyfHJvb3R8Mjg4NzV8aW1hZ2UvanBlZ3xoNjEvaGExLzk3ODAyNjAwMTIwNjIuanBnfDY4M2EzOGI4Y2M2MGZhZTE3OTk3YjIwZGFkODRmYTAzNTZiMjdmZmMwYTU0ZmRkNmI4MTAxYTU4N2ZiODZiZTI"
+    },
+    {
+        "precio": 199.00,
+        "id": 5,
+        "title": "Mouse Inalambrico HP 200 (Negro)",
+        "thumbnailUrl": "https://www.officedepot.com.mx/medias/83481.jpg-300ftw?context=bWFzdGVyfHJvb3R8MTMwMTl8aW1hZ2UvanBlZ3xoNTMvaDMzLzk2OTU4NjQxOTMwNTQuanBnfDg4Mzg1YjNhODZkYmY0ZDExZTIyYWE3NDY1MzI2MDJkNDRjMjllMDE1ODc3NWM2MDhhMjZiOTgxNjkzZTQxZjA"
+    },
+    {
+        "precio": 1049.00,
+        "id": 6,
+        "title": "Mouse Trackball Orbit Inalambrico Kensington",
+        "thumbnailUrl": "https://www.officedepot.com.mx/medias/88515.jpg-300ftw?context=bWFzdGVyfHJvb3R8MzQ5NzB8aW1hZ2UvanBlZ3xoN2IvaDRjLzk4MDIwNzU4NjUxMTguanBnfGM0N2JmYjNhOGViMTNhMWI4ZDQzODYxZGY5YzdlMzU5NzdlNGU3ZmMxZGQ1YTVmMDQyN2QzMTU2MTRmNGQ2ZTU"
+    },
+    {
+        "precio": 20259.00,
+        "id": 7,
+        "title": "Samsung Notebook 9 Pro",
+        "thumbnailUrl": "https://img.global.news.samsung.com/mx/wp-content/uploads/2019/01/Notebook-9-Pro-3.jpg"
+    },
+    {
+        "precio": 52141.88,
+        "id": 7,
+        "title": "Alienware m15",
+        "thumbnailUrl": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/alienware_notebooks/m15_r1/global_spi/notebook-alienware-m15-r1-red-169x149-thumb-1.png?qlt=95&fit=constrain%2c1&hei=149&wid=169&fmt=jpg"
+    },
+    {
+        "precio": 1099.00,
+        "id": 8,
+        "title": "Impresora Multifuncional Hp Deskjet Ink Advantage 2375 / Inyección de tinta / Color / USB",
+        "thumbnailUrl": "https://www.officedepot.com.mx/medias/100000892.jpg-1200ftw?context=bWFzdGVyfHJvb3R8Mjk0OTYyfGltYWdlL2pwZWd8aDM1L2hkOS85OTk1Mzk1MTA0Nzk4LmpwZ3w5ZGQ5NTk0N2ExNjA5MTNmOTNkNWU5ZGY2MGNiNjRiYzUxODE4ZTUxYzJiMmY0NDRkZGQ3Y2VjMDhjNWU0ZjQ3"
+    },
+    {
+        "precio": 4199.00,
+        "id": 9,
+        "title": "Impresora Multifuncional Hp Smart Tank 500 / Tinta continua / Color / USB",
+        "thumbnailUrl": "https://www.officedepot.com.mx/medias/90866.jpg-1200ftw?context=bWFzdGVyfHJvb3R8OTIxMzR8aW1hZ2UvanBlZ3xoMmEvaDA5Lzk3NTAxNDI2ODExMTguanBnfDkxNjM4NDI4NzBjNDAzOGYzNTI1NGMwMmU3ODI3NjI0MzZjYzNkZGVkYjc0Y2JmZTQwNzA1OTliNWI4OWM5Y2Y"
+    },
+    {
+        "precio": 9999.00,
+        "id": 10,
+        "title": "Computadora All in One Lenovo IdeaCentre 330-20IGM / Intel Celeron / 20 Pulg. / 500gb / 4gb RAM / Negro",
+        "thumbnailUrl": "https://www.officedepot.com.mx/medias/93365.jpg-1200ftw?context=bWFzdGVyfHJvb3R8Mzc1NDk3fGltYWdlL2pwZWd8aDk2L2g4My85ODk4ODUxMzAzNDU0LmpwZ3w1Nzk4OTYyY2Y2MmY5MDIyNzRmMTQ1YTdiNGQ0NmI3OTJmODc4YjA4N2I5NzE3YTY3MmNkZjQxMWQ0MzRiNTQx"
+    },
+    {
+        "precio": 119.00,
+        "id": 11,
+        "title": "Mouse Pad Kensington (Negro)",
+        "thumbnailUrl": "https://www.officedepot.com.mx/medias/65961.jpg-1200ftw?context=bWFzdGVyfHJvb3R8NDg5NTM2fGltYWdlL2pwZWd8aDZkL2hhZS85NjQ2NjE0NTQ0NDE0LmpwZ3wyMGUzZGVjNWVmY2U0Njc4OWJmZGYxZjk5M2M1ZTFhMTQxNTNmMDgzZWNmNzMwZDc1NDRiYTVhZjJmYmRlYmY4"
+    }
+]

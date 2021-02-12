@@ -1,0 +1,17 @@
+center{
+    margin-left: 0px;
+    
+    color: rgb(191, 194, 11);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+    table,th,td{
+        font-size: 18px;
+        width: 0%;
+        border:5px solid rgba(39, 130, 214, 0.822);
+        border-collapse: collapse;
+        background-color: rgb(251, 252, 255);
+        color: black;
+        font-family: 'Times New Roman', Times, serif;
+      }
